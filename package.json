@@ -4,7 +4,6 @@
   "description": "Repository to record any classroom code for APIs.",
   "main": "index.js",
   "scripts": {
-    "check": "jest src/check.test.js",
     "start": "nodemon src/index.js"
   },
   "keywords": [],
